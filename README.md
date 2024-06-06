@@ -12,7 +12,10 @@ Este repositório contém a implementação do layout da Seção Home conforme s
 2. **JavaScript**:
    - Durante o desenvolvimento, não encontrei elementos que precisassem de JavaScript adicional além do mencionado carrossel. Foquei principalmente em HTML e CSS para construir a estrutura e o design responsivo das seções.
 
-### Funcionalidades Implementadas
+3. **Apenas CSS, HTML e Javascript**
+   - Como regra estabelecida essas eram as únicas tecnologias que eu poderia utilizar, sendo assim, nenhum framework ou biblioteca foi utilizado para ajudar nessas tarefas. Embora existam muitos que ajudariam e agilizariam a implementação.
+     
+### Seções Implementadas
 
 - **Home**: 
   - Layout completo e responsivo, adaptando-se bem a diversos dispositivos.
