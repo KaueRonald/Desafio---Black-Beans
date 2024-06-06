@@ -7,10 +7,10 @@ Este repositório contém a implementação do layout da Seção Home conforme s
 ### Motivos para as Escolhas Técnicas
 
 1. **Carrossel**: 
-   - Não implementei o carrossel manualmente, pois não havia imagens disponíveis para inclusão. Caso as imagens fossem fornecidas, o carrossel seria implementado utilizando JavaScript e a imagem que tinha, ela tinha os dots nela.
+   - Não implementei o carrossel manualmente, pois não havia imagens disponíveis para inclusão. Caso as imagens fossem fornecidas, o carrossel seria implementado utilizando JavaScript e a imagem que tinha, ela tinha os dots nela, por isso presumi que era um carrousel.
    
 2. **JavaScript**:
-   - Durante o desenvolvimento, não encontrei elementos que precisassem de JavaScript adicional além do mencionado carrossel. Foquei principalmente em HTML e CSS para construir a estrutura e o design responsivo das seções.
+   - Durante o desenvolvimento, não encontrei elementos que precisassem de JavaScript adicional além do suposto carrossel. Foquei principalmente em HTML e CSS para construir a estrutura e o design responsivo das seções.
 
 3. **Apenas CSS, HTML e Javascript**
    - Como regra estabelecida essas eram as únicas tecnologias que eu poderia utilizar, sendo assim, nenhum framework ou biblioteca foi utilizado para ajudar nessas tarefas. Embora existam muitos que ajudariam e agilizariam a implementação.
